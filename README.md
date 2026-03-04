@@ -22,7 +22,10 @@
 ## 📊 Hasil Latihan
 
 1. [cite_start]**Visualisasi Tips**: Menampilkan persentase sebaran jenis kelamin (laki-laki dan perempuan) yang memberikan tips di restoran menggunakan dataset `tips.csv`[cite: 169, 219].
+<img width="1920" height="1080" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/afaaf8c6-729b-44f7-8485-cc18c7a19e75" />
+
 2. **Insight Iris**: Analisis hubungan antar fitur pada dataset bunga Iris untuk mengidentifikasi karakteristik tiap spesies.
+<img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/ad9a09d0-b5c3-4a99-b2a1-23a2dabf4012" />
 
 ## 🚀 Cara Menjalankan
 
